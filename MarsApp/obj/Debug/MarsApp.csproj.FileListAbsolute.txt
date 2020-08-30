@@ -1,0 +1,14 @@
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\bin\Debug\MarsApp.exe.config
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\bin\Debug\MarsApp.exe
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\bin\Debug\MarsApp.pdb
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csprojAssemblyReference.cache
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.CoreCompileInputs.cache
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.exe
+C:\Users\sevval.kahraman\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.pdb
+D:\Projects\MarsApp\MarsApp\bin\Debug\MarsApp.exe.config
+D:\Projects\MarsApp\MarsApp\bin\Debug\MarsApp.exe
+D:\Projects\MarsApp\MarsApp\bin\Debug\MarsApp.pdb
+D:\Projects\MarsApp\MarsApp\obj\Debug\MarsApp.csprojAssemblyReference.cache
+D:\Projects\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.CoreCompileInputs.cache
+D:\Projects\MarsApp\MarsApp\obj\Debug\MarsApp.exe
+D:\Projects\MarsApp\MarsApp\obj\Debug\MarsApp.pdb
